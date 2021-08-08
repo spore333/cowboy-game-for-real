@@ -7,6 +7,6 @@ function scr_textbox_position(){
 	var v_h = camera_get_view_height(view_camera[0])
 	
 	x = v_x+((v_w-sprite_width)/2)
-	y = (v_y+v_h)-(inset+sprite_height)
+	y = (v_y+v_h)-(sprite_height)
 	
 }

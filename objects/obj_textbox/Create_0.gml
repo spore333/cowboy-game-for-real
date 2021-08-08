@@ -6,6 +6,8 @@ timer = 0 //counts up and times the text appearing
 skipped = false //checks if text has been skipped
 skippedAt = 0 //when it was skipped
 selected = 0//what option is selected (questions only)
+sel = 0;
+qxpos = 0
 
 t = 0 //timer for text effects
 

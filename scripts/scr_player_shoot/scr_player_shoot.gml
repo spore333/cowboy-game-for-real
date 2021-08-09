@@ -26,6 +26,7 @@ function scr_player_shoot(movespeed){
 		xoffset = 14
 		break;
 	}
+	dir = point_direction(x+xoffset,y-21,mouse_x,mouse_y)
 	image_speed = 1
 	if(image_index=0){
 	with(instance_create_depth(x+xoffset,y-(21),depth,obj_bullet)){

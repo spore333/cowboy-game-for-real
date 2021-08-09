@@ -1,0 +1,1 @@
+global.xp +=1

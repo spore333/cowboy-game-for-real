@@ -1,11 +1,10 @@
 {
-  "name": "tls_western_paths",
   "spriteId": {
     "name": "spr_western_paths",
     "path": "sprites/spr_western_paths/spr_western_paths.yy",
   },
-  "tileWidth": 64,
-  "tileHeight": 64,
+  "tileWidth": 32,
+  "tileHeight": 32,
   "tilexoff": 0,
   "tileyoff": 0,
   "tilehsep": 0,
@@ -76,6 +75,7 @@
     "path": "folders/Tile Sets/western.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tls_western_paths",
   "tags": [],
   "resourceType": "GMTileSet",
 }
